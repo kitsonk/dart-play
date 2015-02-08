@@ -1,0 +1,8 @@
+name: dart-play
+version: 0.0.1
+authors:
+- Kitson Kelly <me@kitsonkelly.com>
+description: Experiments in Dart
+homepage: https://github.com/kitsonk/dart-play
+environment:
+  sdk: '>=1.0.0 <2.0.0'
